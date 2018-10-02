@@ -26,6 +26,6 @@ s.source_files = 'Pod/Classes/**/*'
 
 s.frameworks = 'UIKit'
 
-s.dependency 'LifecycleHooks', '~> 0.4'
+s.dependency 'LifecycleHooks', '~> 0.5'
 
 end
